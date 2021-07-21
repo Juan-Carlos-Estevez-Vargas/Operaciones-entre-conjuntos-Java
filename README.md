@@ -9,3 +9,8 @@ Este repositorio cuenta con los archivos, clases y métodos necesarios para real
   * Subconjunto. 
 
 Cabe resaltar que A y B son los conjuntos a operar.
+
+# Mis redes sociales
+
+  * Instagram : -> https://instagram.com/juankestevez?igshid=1b8l23wmuja5n
+  * Facebook  : -> https://www.facebook.com/juancarlos.estevezvargas.98
