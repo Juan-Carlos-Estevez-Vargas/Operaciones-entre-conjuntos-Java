@@ -10,6 +10,8 @@ Este repositorio cuenta con los archivos, clases y métodos necesarios para real
 
 Cabe resaltar que A y B son los conjuntos a operar.
 
+![Operaciones_entre_conjuntos](https://user-images.githubusercontent.com/85718854/128093430-e661e13c-e7a1-4a4c-89d7-e0910cc96882.png)
+
 # Mis redes sociales
 
   * [Canal de Youtube :](https://www.youtube.com/channel/UCEUrVWPMTrXIWzn5CwnjYhQ)
