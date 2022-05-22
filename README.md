@@ -14,6 +14,6 @@ Cabe resaltar que A y B son los conjuntos a operar.
 
 # Mis redes sociales
 
-  * [Canal de Youtube :](https://www.youtube.com/channel/UCEUrVWPMTrXIWzn5CwnjYhQ)
+  * Canal de Youtube : https://www.youtube.com/channel/UCEUrVWPMTrXIWzn5CwnjYhQ
   * [Instagram :](https://instagram.com/juankestevez?igshid=1b8l23wmuja5n)
   * [Facebook  :](https://www.facebook.com/juancarlos.estevezvargas.98)
